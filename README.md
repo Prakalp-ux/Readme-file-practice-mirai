@@ -16,17 +16,32 @@ Technology Used :
 3. JAVA
 [Python Official Website](https://www.python.org/)
 ![Educational Image](https://t3.ftcdn.net/jpg/10/93/12/76/360_F_1093127632_vHdunjb8LAhgMZOagSQdfJgrZoatRXlJ.jpg)
-|Project name|Programming language|Category|Level|
-|---|---|---|---|
-|Chess Tutorial| Html| - | - |
 ---
-```Html code example ```
+| Project name | Programming language | Category | Level |
+| --- | --- | --- | --- |
+| Chess Tutorial | Html | - | - |
+---
+```Html code example :
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title></title>
+</head>
+<body>
+<h1>HTML CODE</h1>
+<p>Hello!</p>
+</body>
+</html>
+```
 ---
 > Practice Makes a Chess Player Perfect
+> Without Practice, things will become a piece of knowledge which you can't apply in real world.
 ---
 ---
 AUTHOR - Prakalp Dwivedi.
 
 PURPOSE - To make chess easy to play for everyone.
 
+Url - https://github.com/Prakalp-ux/Readme-file-practice-mirai/blob/main/README.md
 
